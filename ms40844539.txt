@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Fichier de vérification de la propriété du domaine pour Microsoft 365 : placer dans la racine du site web",
+  "Domain": "fmdinatfas-ddecd0a23563.herokuapp.com",
+  "Id": "1038f243-b3c6-48a8-9f17-6113f0fa4d40"
+}
