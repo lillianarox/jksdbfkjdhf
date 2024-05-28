@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Fichier de vérification de la propriété du domaine pour Microsoft 365 : placer dans la racine du site web",
+  "Domain": "wardiz-a64d2645d92a.herokuapp.com",
+  "Id": "8fa9d471-e63f-41a1-b765-23ac6cb91e61"
+}
