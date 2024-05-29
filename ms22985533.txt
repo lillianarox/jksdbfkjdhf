@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Fichier de vérification de la propriété du domaine pour Microsoft 365 : placer dans la racine du site web",
+  "Domain": "lipes-a0ae7418c669.herokuapp.com",
+  "Id": "8fa9d471-e63f-41a1-b765-23ac6cb91e61"
+}
